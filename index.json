@@ -1,0 +1,10 @@
+{
+  "name": "Auto-Generated Shosetsu Extensions",
+  "id": 999,
+  "ver": 1,
+  "urls": [
+    "https://raw.githubusercontent.com/Opalminoncs/shosetsu-extensions-auto/main/"
+  ],
+  "libraries": [],
+  "scripts": []
+}
